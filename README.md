@@ -39,4 +39,4 @@ Open the project in your preferred C# development environment.
 Run the program.cs file to see the example usage.
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/gemstones/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
